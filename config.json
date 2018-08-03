@@ -1,0 +1,4 @@
+{
+    "entry":"./test/index.js",
+    "output":"bundle.js"
+} 
